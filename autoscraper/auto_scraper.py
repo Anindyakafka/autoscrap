@@ -694,9 +694,9 @@ class AutoScraper(object):
             A list of rules to keep in stack_list and removing the rest.
 
         Returns:
-        --------
+        
         None
-        """
+        
 
         self.stack_list = [x for x in self.stack_list if x["stack_id"] in rules]
 
