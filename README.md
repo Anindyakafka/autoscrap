@@ -107,7 +107,7 @@ scraper.get_result_exact('https://finance.yahoo.com/quote/MSFT/')
 ```python
 from autoscraper import AutoScraper
 
-url = 'https://github.com/alirezamika/autoscraper'
+url = 'https://github.com/anindyakafka/autoscraper'
 
 wanted_list = ['A Smart, Automatic, Fast and Lightweight Web Scraper for Python', '2.5k', 'https://github.com/alirezamika/autoscraper/issues']
 
@@ -133,17 +133,6 @@ And to load:
 scraper.load('yahoo-finance')
 ```
 
-## Tutorials
-
-- [AutoScraper and Flask: Create an API From Any Website in Less Than 5 Minutes](https://medium.com/better-programming/autoscraper-and-flask-create-an-api-from-any-website-in-less-than-5-minutes-3f0f176fc4a3)
-
 ## Issues
 Feel free to open an issue if you have any problem using the module.
 
-
-## Support the project
-
-<a href="https://www.buymeacoffee.com/inkspill" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" height="45" width="163" ></a>
-
-
-#### Happy Coding
